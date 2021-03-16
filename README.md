@@ -1,10 +1,10 @@
 # website-flow
 
-My favorite fruits:
-
-- Cherry
-- Strawberry
-- Watermelon
-- Orange
-- Mango
+My favorite cheese:
+- Cottage cheese
+- queso fresco
+- cream cheese
+- mascarpone
+- ricotta
+- chevre
 
